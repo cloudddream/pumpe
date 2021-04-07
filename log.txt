@@ -1,0 +1,9 @@
+---------------
+
+Wed Apr  7 22:59:12 2021 Entering send Mail
+Wed Apr  7 22:59:12 2021 Connection to mailserver established
+Wed Apr  7 22:59:12 2021 Mail send succesfully
+    Stati der Wasserstand Sensoren
+
+   Motor  Oben   Unten Trocken
+     -     -       1     -   
